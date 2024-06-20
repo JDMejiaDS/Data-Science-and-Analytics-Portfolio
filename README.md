@@ -1,5 +1,4 @@
-
-![Banner Logo](Logos/Logo_fondo.png)                           
+![Banner_logo](https://github.com/JDMejiaDS/Data-Science-and-Analytics-Portfolio/assets/173181375/9514b2df-e359-4b66-83dc-21b9418d1a5a)                       
 
 ## Data Science Portfolio
 
