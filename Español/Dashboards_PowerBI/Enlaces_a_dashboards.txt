@@ -1,0 +1,13 @@
+Análisis de calidad de vida por cada país (mapa interactivo):
+En este dashboard se abordan métrcas como la libertad percibida por los ciudadanos, la longevidad, percepción
+de la corrupción entre muchas otras para generar una noción de la calidad de vida de cada país.
+https://app.powerbi.com/view?r=eyJrIjoiNjM2MWE4YWQtMjY1ZC00MThlLTgwNDItYzc4NzI2OGJkZGJiIiwidCI6IjMzZjE4NDU2LWY3MjItNGUzNC1iOGI1LTAyOGViMDM2NDI5NSIsImMiOjR9&embedImagePlaceholder=true&pageName=ReportSection
+
+Análisis del crimen en Vancouver:
+Para este proyecto se utilizaron las frecuencias, tiempo de ocurrencia, bloque, tipo de crimen, además de otra información
+para brindar una visión general de como se ha comportado la delincuencia en esta ciudad canadiense
+https://app.powerbi.com/view?r=eyJrIjoiOTZkYzdlMmYtODAwYS00MGE1LWE5NzktZWYwMGQxODBmNjcyIiwidCI6IjMzZjE4NDU2LWY3MjItNGUzNC1iOGI1LTAyOGViMDM2NDI5NSIsImMiOjR9&embedImagePlaceholder=true&pageName=ReportSection
+
+Análisis de inventario e ingresos para una tienda de ropa:
+Un tradicional de trabajo sobre ganancias, unidades vendidas y promedio de ingresos para una tienda de cadena brasileña
+https://app.powerbi.com/view?r=eyJrIjoiYjk3OGY3ODEtMDkwNi00ODY3LWE3OWQtOGQ4MTFhNGM4ZjMwIiwidCI6IjMzZjE4NDU2LWY3MjItNGUzNC1iOGI1LTAyOGViMDM2NDI5NSIsImMiOjR9&embedImagePlaceholder=true&pageName=ReportSection
