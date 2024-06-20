@@ -1,5 +1,5 @@
 
-![Banner Logo](Logos/Banner_logo.png)                           
+![Banner Logo](Logos/Logo_fondo.png)                           
 
 ## Data Science Portfolio
 
