@@ -1,5 +1,5 @@
 
-![Personal_logo](C:\Users\Juandi\Desktop\Dopamina\Logo\Banner_logo.png" alt="Personal_logo)                              
+![Personal_logo](Logos/Banner_logo.png)                              
 
 ## Data Science Portfolio
 
